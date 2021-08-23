@@ -1,0 +1,43 @@
+input{
+	border: 3.5px solid black;
+	height:50px;
+	width:400px;
+	border-radius: 10px 10px 10px 10px;
+	border-color:black;
+	text-align: center;
+	font-size:30px;
+}
+#list
+{
+	overflow-y		: scroll;
+	width			: 600px;
+	height			: 600px;
+	margin			: 0;
+	padding			: 5px;
+	border			: 1px solid #ccc;
+	font-size		: 9pt;
+	font-family: 'Black Han Sans', sans-serif;
+}
+#list dt
+{
+	float			: left;
+	width			: 100px;
+	font-weight		: 700;
+}
+#list dd
+{
+	float			: left;
+	clear			: right;
+	width			: 270px;
+	margin			: 0;
+	margin-bottom	: 5px;
+}
+form
+{
+	width			: 600px;
+	padding			: 5px;
+	margin-top		: 5px;
+	border			: 1px solid #ffdd88;
+	background		: #ffffe3;
+	font-size		: 0;
+}

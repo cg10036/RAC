@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<title>Ajax Polling Sample Code</title>
+<meta charset="utf-8">
+<style>
+
+</style>
+<script type="text/javascript" src="chat.js"></script>
+<link rel="stylesheet" type="text/css" href="chat.css" />
+</head>
+<body>
+<dl id="list"style="background-color: lightgreen;border:1px solid black;border-radius:3px 3px 3px 3px;"></dl>
+<form onsubmit="chatManager.write(this); return false;">
+	<input name="name"style="border:1px solid black;border-radius:3px 3px 3px 3px;" id="name" type="text" />
+	<input name="msg"style="border:1px solid black;border-radius:3px 3px 3px 3px;" id="msg" type="text" />
+	<input name="btn"style="border:1px solid black;border-radius:3px 3px 3px 3px;" id="btn" type="submit" value="입력" />
+</form>
+</body>
+</html>

@@ -1,0 +1,125 @@
+<style>
+table{
+border: 3.5px solid black;
+		  	font-size:25px;
+}
+#logout{
+position:absolute
+}
+#kmc{
+position:absolute
+}
+#home1{
+margin-left: auto; margin-right: auto; 
+border: 3.5px solid black;
+		   height:600px;
+					   width:700px;
+								  border-radius: 10px 10px 10px 10px;
+								    border-color:black;
+									   text-align: center;
+										  font-size:30px;
+										    }
+ #home2{
+	 margin-left: auto; margin-right: auto; 
+	  border: 3.5px solid black;
+				  height:600px;
+							 width:700px;
+									  border-radius: 10px 10px 10px 10px;
+									   border-color:black;
+										 text-align: center;
+										  font-size:30px;
+										    }
+  #set_t_1{
+	      border: 3.5px solid black;
+					      height:50px;
+									     width:400px;
+												      border-radius: 10px 10px 10px 10px;
+														    border-color:black;
+															     text-align: center;
+																      font-size:30px;
+																		  }
+ #set_h_1{
+	  border: 3.5px solid black;
+				  height:50px;
+							 width:400px;
+									  border-radius: 10px 10px 10px 10px;
+									   border-color:black;
+										 text-align: center;
+										  font-size:30px;
+										   }
+ #now_t_1{
+	       border: 3.5px solid black;
+						      height:50px;
+										       width:400px;
+														       border-radius: 10px 10px 10px 10px;
+																       border-color:black;
+																		       text-align: center;
+																				     font-size:30px;
+																					   }
+#now_h_1{
+	 border: 3.5px solid black;
+				      height:50px;
+								       width:400px;
+												       border-radius: 10px 10px 10px 10px;
+														       border-color:black;
+																       text-align: center;
+																		     font-size:30px;
+}
+  #set_t_2{
+	  	      border: 3.5px solid black;
+						  					      height:50px;
+															 									     width:400px;
+																											  												      border-radius: 10px 10px 10px 10px;
+																																																							    border-color:black;
+																																																								 															     text-align: center;
+																																																																								  																      font-size:30px;
+																																																																																																												  }
+ #set_h_2{
+	 	  border: 3.5px solid black;
+					 				  height:50px;
+																			 width:400px;
+																					 									  border-radius: 10px 10px 10px 10px;
+																														  									   border-color:black;
+																																																		 text-align: center;
+																																																		 										  font-size:30px;
+																																																												  										   }
+ #now_t_2{
+	 	       border: 3.5px solid black;
+													      height:50px;
+																	 										       width:400px;
+																															 														       border-radius: 10px 10px 10px 10px;
+																																															 																       border-color:black;
+																																																																	 																		       text-align: center;
+																																																																																					 																				     font-size:30px;
+																																																																																																										  																					   }
+#now_h_2{
+		 border: 3.5px solid black;
+									      height:50px;
+													 								       width:400px;
+																									 												       border-radius: 10px 10px 10px 10px;
+																																							 														       border-color:black;
+																																																							 																       text-align: center;
+																																																																									 																		     font-size:30px;
+}
+td{
+	font-family: 'Black Han Sans', sans-serif;
+	  font-size:30px;
+	    text-align: center;
+
+}
+button{
+background-color:white;
+border: 3.5px solid black;		
+	border-radius: 10px 10px 10px 10px;
+	border-color:black;
+font-size:25px;
+margin-left: auto; margin-right: auto; 
+font-family: 'Black Han Sans', sans-serif;
+  text-align: center;
+  }
+#title{
+	font-family: 'Black Han Sans', sans-serif;
+	font-size:100px;
+	text-align: center;
+}
+</style>          
